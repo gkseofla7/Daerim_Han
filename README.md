@@ -42,7 +42,7 @@
 | Gwangju | 40 | 2.3 | 27.7 |
 | Ulsan | 20 | 1.2 | 17.8 |
 | Jeju | 5 | 0.3 | 7.4 |
-| Sejong | 4 | 0.2 | 10.9 |
+| Sejong | 4 | 0.2 | 10.9 |  
 <empty line>
 |  <center>Header1</center> |  <center>Header2</center> |  <center>Header3</center> |
 |:--------|:--------:|--------:|
