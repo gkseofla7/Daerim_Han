@@ -24,8 +24,7 @@ Total population: 51669716
 | Sejong | 365309 | 0.7 |
 <empty line>
 ### Korean COVID-19 New Cases by Region
-* Total new cases: 1714
-<empty line>
+Total new cases: 1714
 <empty line>
 | Region | Population | Ratio (%) | New Cases / 1M |
 | ------ | ---------- | --------- | -------------- |
