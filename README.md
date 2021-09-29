@@ -2,7 +2,7 @@
 * Total population: 51669716
 <empty line>
 | Region | Population | Ratio (%) |
-| ------ | ---------- | --------- |
+| --- | --- | --- |
 | Seoul | 9550227 | 18.5 |
 | Gyeongi | 13530519 | 26.2 |
 | Busan | 3359527 | 6.5 |
