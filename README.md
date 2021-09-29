@@ -20,7 +20,7 @@
 | Ulsan | 1124459 | 2.2 |
 | Jeju | 675883 | 1.3 |
 | Sejong | 365309 | 0.7 |
-
+<empty line>
 ### Korean COVID-19 New Cases by Region
 * Total new cases: 1714
 <empty line>
@@ -43,5 +43,5 @@
 | Ulsan | 20 | 1.2 | 17.8 |
 | Jeju | 5 | 0.3 | 7.4 |
 | Sejong | 4 | 0.2 | 10.9 |  
-<empty line>
+
 
