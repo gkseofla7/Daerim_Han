@@ -22,9 +22,13 @@ Total population: 51669716
 | Ulsan | 1124459 | 2.2 |
 | Jeju | 675883 | 1.3 |
 | Sejong | 365309 | 0.7 |
+
 <empty line>
+<empty line>
+
 ### Korean COVID-19 New Cases by Region
 Total new cases: 1714
+<empty line>
 <empty line>
 | Region | Population | Ratio (%) | New Cases / 1M |
 | ------ | ---------- | --------- | -------------- |
