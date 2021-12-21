@@ -1,7 +1,7 @@
 ### 모노미노도미노 게임
 
 ![all](https://blog.kakaocdn.net/dn/dvSqH8/btqXu4y1D2s/9P1ahBYaKZmcRttToldo9k/img.png) <br/>
-참고자료(외에 별도 참조 없음)
+참고자료(외에 참고 없음)
 - [pygame 라이브러리 사용법 참고](https://www.youtube.com/watch?v=Dkx8Pl6QKW0&t=456s) <br/>
 - [게임 아이디어 참조](https://www.acmicpc.net/problem/19235)
 만들게 된 계기 : 해당 게임은 알고리즘 문제를 풀다가 모노미노도미노라는 문제를 보고 이를 실제 게임으로 구현시키면
