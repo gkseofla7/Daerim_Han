@@ -1,8 +1,9 @@
 ### 모노미노도미노 게임
-======
-![all](https://blog.kakaocdn.net/dn/dvSqH8/btqXu4y1D2s/9P1ahBYaKZmcRttToldo9k/img.png)<br/>
-[pygame 라이브러리 사용법 참고](https://www.youtube.com/watch?v=Dkx8Pl6QKW0&t=456s)<br/>
-[게임 아이디어 참](https://www.acmicpc.net/problem/19235)
+
+![all](https://blog.kakaocdn.net/dn/dvSqH8/btqXu4y1D2s/9P1ahBYaKZmcRttToldo9k/img.png) <br/>
+참고자료 </br>
+- [pygame 라이브러리 사용법 참고](https://www.youtube.com/watch?v=Dkx8Pl6QKW0&t=456s) <br/>
+- [게임 아이디어 참조](https://www.acmicpc.net/problem/19235)
 - 해당 게임은 60초내에 점수를 많이 얻는 것을 목표로 하는 게임이다.
 - 블록은 총 세 종류로 스페이스 바를 누르면 랜덤해서 나온다.
 ![bar](https://upload.acmicpc.net/1453b25c-e0c1-4b99-9eda-bba9336beab1/-/preview/)
